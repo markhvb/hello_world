@@ -1,6 +1,5 @@
 # hello_world
-first try
 
-finishing this readme concerning hello_world will just take some random talking:
-
-bla bla bla
+This repository is my first try with git and github, hence its name hello_world.
+My name is Mark and I work for a statistical government institution in Holland.
+Hopefully I will be using Git and Github more in the near future and I will erase this 'fake' repository.
